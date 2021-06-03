@@ -1,6 +1,6 @@
 ## Brief Description ##
 This application mimics some of the processes of a standard blog site created using Flask, the tracker used was the Snowplow python tracker. There are three various things 
-tracked by the piepline I established. Firstly when the user vists the home page, user agent data collected from the application is sent to the snowplow micro collector. Secondly 
+tracked by the pipeline I established. Firstly when the user vists the home page, user agent data collected from the application is sent to the snowplow micro collector. Secondly 
 when vieweing previous blogs the page and any links clicked are tracked and finally the submission of new entries via the form are also tracked.
 
 ## Initialisation ##
